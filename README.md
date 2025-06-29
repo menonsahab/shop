@@ -55,7 +55,7 @@ onlineshop
 ├── docs
 │   ├── api-docs
 │   ├── class-diagram
-│   ├── shema-diagram
+│   ├── schema-diagram
 │   └── postman-collection
 ├── src
 │   ├── main
